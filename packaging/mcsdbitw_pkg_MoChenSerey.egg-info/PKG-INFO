@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: mcsdbitw-pkg-MoChenSerey
+Version: 0.0.1
+Summary: Package for service uptime data analysis
+Home-page: UNKNOWN
+Author: Mo Chen Serey
+Author-email: mochenserey@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
