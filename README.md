@@ -1,5 +1,6 @@
 Goal:
-To analyze the Service Uptime of servers. See the file Instruction.pdf.
+To analyze service uptime for clients from servers' log files. 
+See the file Instruction.pdf.
 
 
 Python3 version used to run the notebook is:
